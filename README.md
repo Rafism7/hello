@@ -11,4 +11,4 @@ This is a coursework repository as part of my Robotics Software Engineering Nano
 
 3. Where Am I :  Successfuly localized our robot using Adaptive Monte Carlo Localization, also learned about the various algorithms like Kalaman filters and EKF.
 
-4 Map My world : Created a 2D occupancy grid and 3D octomap from a simulated environment using our own robot with the RTAB-Map package.
+4. Map My world : Created a 2D occupancy grid and 3D octomap from a simulated environment using our own robot with the RTAB-Map package.
