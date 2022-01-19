@@ -5,7 +5,7 @@ This is a coursework repository as part of my Robotics Software Engineering Nano
 
 ## Projects Developed: 
 
-1. **Project 1: Build My World** - Developed a custom simulation environment with multiple robot models and wrote a C++ world plugin to interact with our world.
+1. **<u>Project 1: Build My World</u>** - Developed a custom simulation environment with multiple robot models and wrote a C++ world plugin to interact with our world.
 
 2. **Project 2: Go Chase It** - Designed a mobile robot and housed it inside our world, programmed the robot with C++ nodes to chase white coloured balls.
 
