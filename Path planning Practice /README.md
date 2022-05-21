@@ -7,7 +7,7 @@ It is a dynamic sized array. Number of elements can be increased or decreased.
 - vector<int> v; (empty vector of integers)
 - vector<int> v(10); (vector of integers with 10 elements (all 0))
 - vector<char> v(10,'h'); (vector of strings with 10 elements (all 'h'))
-<!-->
+<!--
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
